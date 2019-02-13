@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549559714290,
-            "changeTime": 1549559714290,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1550072820881,
+            "changeTime": 1550072820881,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -50,9 +50,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549558622704,
-            "changeTime": 1549558622704,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1550072212227,
+            "changeTime": 1550072212227,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,159 +60,466 @@
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549558754231,
-            "changeTime": 1549558754231,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1550071718537,
+            "changeTime": 1550071718537,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1549559714226,
             "changeTime": 1549559714226,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1549559714241,
             "changeTime": 1549559714241,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1549559714257,
             "changeTime": 1549559714257,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1549559714272,
             "changeTime": 1549559714272,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1549559714288,
             "changeTime": 1549559714288,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1549559714291,
             "changeTime": 1549559714291,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549559714225,
             "changeTime": 1549559714225,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549559714223,
             "changeTime": 1549559714223,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549559714223,
             "changeTime": 1549559714223,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549559714282,
             "changeTime": 1549559714282,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549559714290,
             "changeTime": 1549559714290,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550071871609,
+            "changeTime": 1550071871609,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1550072032832,
+            "changeTime": 1550072032832,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1550071871614,
+            "changeTime": 1550071871614,
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550072212248,
+            "changeTime": 1550072212248,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550072212247,
+            "changeTime": 1550072212247,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1550072242331,
+            "changeTime": 1550072242331,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1550072212235,
+            "changeTime": 1550072212235,
+            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 130,
+            "modifiedTime": 1550072268523,
+            "changeTime": 1550072268523,
+            "contentHash": "2fa3f93bf37f3124658447a21f90ef4fa79db519",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550072212249,
+            "changeTime": 1550072212249,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550072212246,
+            "changeTime": 1550072212246,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1550072212238,
+            "changeTime": 1550072212238,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550072212240,
+            "changeTime": 1550072212240,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550072212243,
+            "changeTime": 1550072212243,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1550072820876,
+            "changeTime": 1550072820876,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4957,
+            "modifiedTime": 1550072820884,
+            "changeTime": 1550072820884,
+            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4961,
+            "modifiedTime": 1550072820891,
+            "changeTime": 1550072820891,
+            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5297,
+            "modifiedTime": 1550072820898,
+            "changeTime": 1550072820898,
+            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19333,
+            "modifiedTime": 1550072820926,
+            "changeTime": 1550072820926,
+            "contentHash": "7f3997c0acd8fed2a2433f2f889e0a1f9656c98d"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550072820872,
+            "changeTime": 1550072820872,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\KPMG\\Documents\\WorkSpaceSFDX\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550072820920,
+            "changeTime": 1550072820920,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
