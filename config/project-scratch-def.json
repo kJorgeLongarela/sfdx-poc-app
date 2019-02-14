@@ -2,8 +2,10 @@
     "orgName": "Demo Company",
     "edition": "Developer",
     "settings": {
-        "orgPreferences" : {
-            "enabled": ["S1DesktopEnabled"]
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "selfSetPasswordInApi": true,
+            "s1EncryptedStoragePref2": false
         }
     }
 }
